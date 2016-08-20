@@ -1,5 +1,15 @@
 #premio-nacional-acessibilidade-web
 
+## Chance de vencer
+
+| Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
+|-----|-----------|-------------------------|-------------------|
+| 2012 | 15: 14x1 | 93.3% | 6.6% |
+
+## Chance de chegar como finalista
+| Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
+|-----|-----------|-------------------------|-------------------|
+| 2012 | 21: 19x2 | 86.3% | 9.5% |
 
 **Legenda**
 - **Ano**: ano do evento
