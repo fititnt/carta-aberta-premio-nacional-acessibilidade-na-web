@@ -11,10 +11,17 @@
 
 ## Categorias por ano
 
-| Ano | Nº Finalistas | Nº Vencedores | Título  |
+| Ano | Nº Vencedores | Nº Finalistas | Título  |
 |-----|---------------|---------------|---------|
+| 2012 | 15 | 21 | _Total geral do ano_ |
 | 2012 | 3 | 3 | Categoria Pessoas / Personalidades / Instituições |
 | 2012 | 3 | 5 | Governo / Instituições |
 | 2012 | 3 | 5 | Serviços / E-commerce |
 | 2012 | 3 | 5 | Entretenimento / Cultura / Educação / Blogs |
 | 2012 | 3 | 4 | Tecnologias assistivas / Aplicativos |
+| 2013 | 15 | 19 | _Total geral do ano_ |
+| 2013 | 3 | 5 | Categoria Pessoas / Instituições |
+| 2013 | 3 | 3 | Governamentais |
+| 2013 | 3 | 3 | Serviços / E-commerce |
+| 2013 | 3 | 5 | Institucionais / Entretenimento / Cultura / Educação / Blogs |
+| 2013 | 3 | 3 | Aplicativos e Tecnologias assistivas |
