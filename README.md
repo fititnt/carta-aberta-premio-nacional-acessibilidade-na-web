@@ -45,5 +45,20 @@ Nada aqui. Vá embora
 | 2013 | 3 | Não | ?  |  Sim  |  [aria-check] (http://premio.ceweb.br/2013/finalistas/aria-check.html)  |
 | 2013 | 2 | Não | ?  |  Sim  |  [AWMo: Acessible Web Modeler] (http://premio.ceweb.br/2013/finalistas/AWMo-acessible_web_modeler.html)  |
 | 2013 | 1 | Não | ?  |  Sim  |  [Mouse Acessível] (http://premio.ceweb.br/2013/finalistas/mouse-acessivel.html)  |
-| 2014 | ? | ? | ?  |  ?  |  [] ()  |
-
+| 2014 | 2 | Não | Sim  |  Sim  |  [Fernanda Lobato] (http://premio.ceweb.br/2014/finalistas/fernandalobato.html)  |
+| 2014 | 3 | Não | ?  |  Sim  |  [Hand Talk] (http://premio.ceweb.br/2014/finalistas/handtalk.html)  |
+| 2014 | 0 | Não | ?  |  Sim  |  [ProDeaf] (http://premio.ceweb.br/2014/finalistas/prodeaf.html)  |
+| 2014 | 1 | Não | Sim  |  Sim  |  [Projeto de Acessibilidade Virtual do IFRS] (http://premio.ceweb.br/2014/finalistas/ifrs.html)  |
+| 2014 | 1 | Não | Sim  |  Sim  |  [Cursos eMAG] (http://emag.governoeletronico.gov.br/curso/)  |
+| 2014 | 2 | Não | Sim  |  Sim  |  [Guia Turismo Acessível] (http://turismoacessivel.gov.br/ta/)  |
+| 2014 | 2 | Sim | Não  |  Não  |  [Casa Jaú - Portal Imobiliário Regional] (http://www.casajau.com.br/)  |
+| 2014 | 3 | Não | Não  |  Sim  |  [Legenda Sonora] (http://legendasonora.com.br/)  |
+| 2014 | 1 | Não | ?  |  Sim  |  [Saúde Acessível] (http://www.saudeacessivel.com.br/)  |
+| 2014 | 0 | Sim | Não  |  Não  |  [Website Comercial Buffon] (http://www.comercialbuffon.com.br/)  |
+| 2014 | 3 | Não | Não  |  Sim  |  [Acesso para todos] (http://www.acessoparatodos.com.br/)  |
+| 2014 | 1 | Não | ?  |  Sim  |  [SELUR - Site acessível] (http://www.selur.com.br/)  |
+| 2014 | 2 | Não | ?  |  Sim  |  [Site Jornalismo em Audiodescrição] (http://jornalismoemaudiodescricao.com.br/)  |
+| 2014 | 3 | ? | ?  |  ?  |  [CMS Suindara] (http://premio.ceweb.br/2014/finalistas/suindara.html)  |
+| 2014 | 2 | Não | ?  | Sim |  [Facilitas Player] (http://premio.ceweb.br/2014/finalistas/facilitas.html)  |
+| 2014 | 1 | Não | ?  |  Sim  |  [WebHelpDyslexia] (http://premio.ceweb.br/2014/finalistas/webhelpdyslexia.html)  |
+| 2015 | 0 | 0 | 0  |  0  |  [0] (0)  | Em 2015 o evento não foi realizado.
