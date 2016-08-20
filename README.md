@@ -15,7 +15,7 @@ Nada aqui. Vá embora
 | 2012 | 3 | Sim | Não  |  Sim  |  [Clareou - O Primeiro Buscador de Sites Acessíveis do Brasil!] (http://www.clareou.com.br/)  |
 | 2012 | 1 | Sim | Não  |  Não  |  [Hotel Fazenda Parque dos Sonhos] (http://www.parquedossonhos.com.br/)  |
 | 2012 | 0 | ? | ?  |  ?  |  [Selur Social] (http://www.selursocial.org.br/)  |
-| 2012 | 2 | Não | Sim  |  Sim  |  [Site Acessibilidahttp://premio.ceweb.br/2012/finalistas/04.htmde Virtual - Informação ao alcance de todos] (http://bento.ifrs.edu.br/acessibilidade/)  |
+| 2012 | 2 | Não | Sim  |  Sim  |  [Site Acessibilidade Virtual - Informação ao alcance de todos] (http://bento.ifrs.edu.br/acessibilidade/)  |
 | 2012 | 0 | Sim | Não  |  Não |  [Site Tuboar] (http://www.tuboar.com.br/)  |
 | 2012 | 2 | Sim | Não  |  Sim  |  [Bengala Legal] (http://bengalalegal.com/)  |
 | 2012 | 0 | Não | Sim  |  Sim  |  [Blog Acessibilidade Virtual - Informação ao alcance de todos] (http://blog.bento.ifrs.edu.br/)  |
