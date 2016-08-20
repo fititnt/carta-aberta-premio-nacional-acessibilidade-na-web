@@ -25,3 +25,17 @@
 | 2013 | 3 | 3 | Serviços / E-commerce |
 | 2013 | 3 | 5 | Institucionais / Entretenimento / Cultura / Educação / Blogs |
 | 2013 | 3 | 3 | Aplicativos e Tecnologias assistivas |
+| 2014 | 14 | 16 | _Total geral do ano_ |
+| 2012 | 3 | 4 | Categoria Pessoas / Instituições |
+| 2012 | 2 | 2 | Governamentais |
+| 2012 | 3 | 4 | Serviços / E-commerce |
+| 2012 | 3 | 3 | Institucionais / Entretenimento / Cultura / Educação / Blogs |
+| 2012 | 3 | 3 | Aplicativos e Tecnologias assistivas |
+| 2015 | 0 | 0 | _Total geral do ano_ |
+| 2016 | 10 | 12 | _Total geral do ano_ |
+| 2016 | 1* | 1 | Pessoas/Instituições |
+| 2016 | 3* | 3 | Governamentais |
+| 2016 | 3* | 5 | Sociedade |
+| 2016 | 3* | 3 | Aplicativos / Tecnologia Assistiva |
+
+_O Nº Vencedores de 2016 ainda não foi divulgado. Na tabela consta a projeção, baseada em anos anteriores_
