@@ -10,8 +10,10 @@ Nada aqui. Vá embora
 ## Chance de chegar como finalista
 | Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
 |-----|-----------|-------------------------|-------------------|
-| 2012 | 21: 19x2 | 86.3% | 9.5% |
-| 2013 | 19: 17x2 | 89.4% | 10.5% |
+| 2012 | 21: 19x2 | 90.5% | 9.5% |
+| 2013 | 19: 17x2 | 89.5% | 10.5% |
+| 2014 | 16: 14x2 | 87.5% | 12.5% |
+| 2015 | 0: 0x0 | 0% | 0% |
 
 ## Lista completa
 
@@ -78,6 +80,7 @@ Nada aqui. Vá embora
 
 **Notas**
 - 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia)
+
 **Legenda**
 - **Ano**: ano do evento
 - **Premiado**: caso o finalista tenha sido premiado entre os 3 primeiros em uma subcategoria, sua posição
