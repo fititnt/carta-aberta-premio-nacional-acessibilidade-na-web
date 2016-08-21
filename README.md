@@ -6,6 +6,10 @@ Nada aqui. Vá embora
 | Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
 |-----|-----------|-------------------------|-------------------|
 | 2012 | 15: 14x1 | 93.3% | 6.6% |
+| 2013 | 15: 14x1 | 93.3% | 6.6% |
+| 2014 | 15: 14x1 | 93.3% | 6.6% |
+| 2015 | 0: 0x0 | 0% | 0% |
+| 2016 | 10: ?x? | ? | ? |
 
 ## Chance de chegar como finalista
 | Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
@@ -14,6 +18,7 @@ Nada aqui. Vá embora
 | 2013 | 19: 17x2 | 89.5% | 10.5% |
 | 2014 | 16: 14x2 | 87.5% | 12.5% |
 | 2015 | 0: 0x0 | 0% | 0% |
+| 2016 | 13: 11x2 | 84.6% | 15.8% |
 
 ## Lista completa
 
