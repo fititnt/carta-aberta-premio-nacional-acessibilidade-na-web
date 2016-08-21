@@ -1,7 +1,16 @@
 # Prêmio Nacional de Acessibilidade Web
 Carta aberta de críticas construtivas ao Todos@Web. Ou, na pior das hipóteses, um guia com referências estatísticas de como não sugerir projetos, mesmo sendo os mais comuns na internet, terão menos de 7% de chance de ganhar premiação.
 
+[As chamadas para participar do projeto](http://tableless.com.br/por-que-inscrever-seu-site-no-premio-de-acessibilidade/), com base em dados de premiações anteriores e nas dificuldades técnicas naturais, frustram desenvolvedores, e, **no mínimo**, deveria haver uma separação clara também quanto ao conteúdo (razão de ser) dos sites.
+
+## Prêmio sobre "forma como código é implementado", porém objetivo do site é determinante
+
 Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como projetos são feitos, na prática [o conteúdo do site influencia na avaliação](conteudo-influencia-dificuldade.md), e se não houver mudanças pelo menos nas divisões de categorias do prêmio, mesmo que haja esforço enorme seu para competir, você sofrerá uma concorrência desestimuladora.
+
+É natural deduzir que, a maioria da internet brasileira, não é representada pelo nicho que tem mais vantagem de até mesmo chegar como finalista e que **para um prêmio cujo principal objetivo é melhorar possívelmente melhorar acessibilidade na web brasileira, está falhando ao não dar chance aos projetos que representam a maioria dos que são feitos no Brasil**.
+
+-----
+# Dados estatísticos
 
 ## Chance de vencer
 
