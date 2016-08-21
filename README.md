@@ -11,6 +11,7 @@ Nada aqui. Vá embora
 | Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
 |-----|-----------|-------------------------|-------------------|
 | 2012 | 21: 19x2 | 86.3% | 9.5% |
+| 2013 | 19: 17x2 | 89.4% | 10.5% |
 
 ## Lista completa
 
@@ -31,7 +32,7 @@ Nada aqui. Vá embora
 | 2012 | 0 | **Sim** | Não  |  Não |  [Site Tuboar] (http://www.tuboar.com.br/)  |
 | 2012 | 2 | Não | Não  |  Sim  |  [Bengala Legal] (http://bengalalegal.com/)  |
 | 2012 | 0 | Não | Sim  |  Sim  |  [Blog Acessibilidade Virtual - Informação ao alcance de todos] (http://blog.bento.ifrs.edu.br/)  |
-| 2012 | 3 | ? | ?  |  Sim  |  [Cartilha Acessibilidade Digital - Lupa Digital] (http://www.lupadigital.info/)  |
+| 2012 | 3 | Não | Não  |  Sim  |  [Cartilha Acessibilidade Digital - Lupa Digital] (http://www.lupadigital.info/)  |
 | 2012 | 0 | Não | Não  |  Sim  |  [Projeto Diversa] (http://www.diversa.org.br/)  |
 | 2012 | 1 | Não | Não  |  Sim  |  [Vida Mais Livre] (http://vidamaislivre.com.br/)  |
 | 2012 | 2 | Não | Não  | Sim  |  [AccessibilityUtil.com, uma ferramenta de colaboração] (http://premio.ceweb.br/2012/finalistas/04.htm)  |
@@ -50,7 +51,7 @@ Nada aqui. Vá embora
 | 2013 | 3 | Não | Sim  |  Sim  |  [Projeto Pró-Reabilitação] (http://www.proreabilitacao.com.br/)  |
 | 2013 | 1 | Sim | Não  |  ?  |  [Reclamações Procon] (http://www.reclamacoesprocon.com.br/)  |
 | 2013 | 0 | Não | Sim  |  Sim  |  [B.U. em Libras - Descobrindo a Biblioteca] (http://www.acessibilidade.ufc.br/buemlibras/)  |
-| 2013 | 3 | ? | ?  |  ?  |  [RECO - Reconstrução Coletiva] (http://reco.eco.br/)  |
+| 2013 | 3 | **Sim**? | Não?  |  Não  |  [RECO - Reconstrução Coletiva] (http://reco.eco.br/)  |
 | 2013 | 2 | Não | Sim  |  Sim |  [Site Modelo de Acessibilidade Virtual] (http://acessibilidade.bento.ifrs.edu.br/)  |
 | 2013 | 1 | Não | Não  |  Sim  |  [Studio Pilates Potirendaba] (http://www.studiopilatespoty.com.br/)  |
 | 2013 | 0 | Não | ?  |  Sim  |  [Website do Teatro Acessível] (http://www.teatroacessivel.org.br/)  |
@@ -68,7 +69,7 @@ Nada aqui. Vá embora
 | 2014 | 1 | Não | ?  |  Sim  |  [Saúde Acessível] (http://www.saudeacessivel.com.br/)  |
 | 2014 | 0 | **Sim** | Não  |  Não  |  [Website Comercial Buffon] (http://www.comercialbuffon.com.br/)  |
 | 2014 | 3 | Não | Não  |  Sim  |  [Acesso para todos] (http://www.acessoparatodos.com.br/)  |
-| 2014 | 1 | ? | ?  |  ?  |  [SELUR - Site acessível] (http://www.selur.com.br/)  |
+| 2014 | 1 | Não | Sim  |  Não  |  [SELUR - Site acessível] (http://www.selur.com.br/)  |
 | 2014 | 2 | Não | ?  |  Sim  |  [Site Jornalismo em Audiodescrição] (http://jornalismoemaudiodescricao.com.br/)  |
 | 2014 | 3 | Não? | ?  |  Sim?  |  [CMS Suindara] (http://premio.ceweb.br/2014/finalistas/suindara.html)  |
 | 2014 | 2 | Não | ?  | Sim |  [Facilitas Player] (http://premio.ceweb.br/2014/finalistas/facilitas.html)  |
