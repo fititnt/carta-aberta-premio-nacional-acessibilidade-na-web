@@ -1,5 +1,7 @@
 # Prêmio Nacional de Acessibilidade Web
-Nada aqui. Vá embora
+Carta aberta de críticas construtivas ao Todos@Web. Ou, na pior das hipóteses, um guia com referências estatísticas de como não sugerir projetos, mesmo sendo os mais comuns na internet, terão menos de 7% de chance de ganhar premiação.
+
+Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como projetos são feitos, na prática [o conteúdo do site influencia na avaliação](conteudo-influencia-dificuldade.md), e se não houver mudanças pelo menos nas divisões de categorias do prêmio, mesmo que haja esforço enorme seu para competir, você sofrerá uma concorrência desestimuladora.
 
 ## Chance de vencer
 
