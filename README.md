@@ -47,11 +47,10 @@ porém [não é bem assim](onteudo-influencia-dificuldade.md).
 
 ### 1. Dar chance REAL e proporcional para sites que não atendem o nicho típico
 
-Independente _da relevância_ de um projeto submetido, na prática é
-muito mais difícil para desenvolvedores competir com sites que são pagos
-com impostos ou que até mesmo o conteúdo é sobre acessibilidade. Esta
-proposta é para criar ao menos uma categoria que explicitamente
-não permita esse tipo de conteúdo.
+Independente da _relevância_ de um projeto submetido, na prática é muito mais
+difícil para desenvolvedores competir com sites que são pagos com impostos ou
+que até mesmo o conteúdo é sobre acessibilidade. Esta proposta é para criar ao
+menos uma categoria que explicitamente não permita esse tipo de conteúdo.
 
 Saiba mais em [o conteúdo do site influencia na avaliação](conteudo-influencia-dificuldade.md).
 
@@ -73,28 +72,29 @@ pelo nicho que tem mais vantagem de até mesmo chegar como finalista e que
 ### 2. Já em 2016, imediatamente, criar categoria diferentes no "Projetos Web Sociedade"
 
 O prêmio em 2016 já anunciou os finalistas, mas ainda está em aberto para
-definir as classificações. Assumindo que apenas 2 dos 13 finalistas não
-são o nicho que, historicamente, sempre tem vantagem no evento, esta proposta
-sugere que ao menos estes dois concorrentes tenham uma categoria especial. Se
-a comissão [comissão julgadora](comissao-julgadora.md) acreditar ser pertinente
-pode valer a pena ver entre os candidatos que não foram bons o suficientes para
-competir contra os demais e incluir novamente na premiação.
+definir as classificações. Assumindo que apenas 2 dos 13 finalistas não são do
+nicho que, historicamente, sempre tem vantagem no evento, esta proposta sugere
+que ao menos estes dois concorrentes tenham uma categoria especial. Se a
+[comissão julgadora](comissao-julgadora.md) acreditar ser pertinente pode valer
+a pena ver entre os candidatos que não foram bons o suficientes para competir
+contra os demais e incluir novamente na premiação.
 
-Fato pertinente: todos os anos, exatamente dois projetos que não se incluem
-no nicho típico conseguem se tornar finalistas, e, destes, metade ganha
-premiação. Ao criar uma categoria exclusiva, com 3 lugares, a comissão julgadora
-garante 300% de participação em relação a anos anteriores. Isso é bastante
+Fato pertinente: todos os anos, exatamente dois projetos que não se incluem no
+nicho típico conseguem se tornar finalistas, e, destes, metade ganha premiação.
+Ao criar uma categoria exclusiva, com 3 lugares, acomissão julgadora garante um
+aumento de 300% na participação em relação a anos anteriores. Isso é bastante
 coisa!
 
 Veja mais em [proposta para recategorização já em 2016 de projetos diferentes](proposta-recategorizacao-2016.md).
 
 ### 3. Deixar, de forma clara, quem é a comissão organizadora do evento
 
-O prêmio é a maior, senão mesmo único, que pretente atestar qualidade de
-um website no Brasil. A W3C não tem equivalentes em outras áreas. Ainda assim,
-mesmo com tamanha importância, em um país com 200 milhões de habitantes,
-e com uma das comunidades de desenvolvedores mais ativas do mundo, não
-está claro em qualquer lugar quem é a comissão julgadora.
+O prêmio é o maior, senão o único, que pretende atestar a qualidade de um
+website no Brasil. A W3C não tem equivalentes em outras áreas. Ainda assim,
+mesmo com tamanha importância, em um país com 200 milhões de habitantes, e com
+uma das comunidades de desenvolvedores mais ativas do mundo, não está claro em
+qualquer lugar quem é a comissão julgadora, algo que só foi divulgado
+publicamente na primeira edição.
 
 Veja mais detalhes em [da comissão julgadora do prêmio](comissao-julgadora.md).
 
