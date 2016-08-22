@@ -81,9 +81,9 @@ contra os demais e incluir novamente na premiação.
 
 Fato pertinente: todos os anos, exatamente dois projetos que não se incluem no
 nicho típico conseguem se tornar finalistas, e, destes, metade ganha premiação.
-Ao criar uma categoria exclusiva, com 3 lugares, acomissão julgadora garante um
-aumento de 300% na participação em relação a anos anteriores. Isso é bastante
-coisa!
+Ao criar uma categoria exclusiva, com 3 lugares, a comissão julgadora garante
+um aumento de 300% na participação em relação a anos anteriores. Isso é
+bastante coisa!
 
 Veja mais em [proposta para recategorização já em 2016 de projetos diferentes](proposta-recategorizacao-2016.md).
 
