@@ -61,10 +61,19 @@ pelo nicho que tem mais vantagem de até mesmo chegar como finalista e que
 
 ### 2. Já em 2016, imediatamente, criar categoria diferentes no "Projetos Web Sociedade"
 
-Se for coerente a 1ª proposta da carta aberta, antes mesmo da votação que vai
-decidir os vencedores de 2016, subdividir a atual categoria "Projetos Web
-Sociedade" de modo que "Portal Unimed Fortaleza" e "Website Luiza Caspary"
-não fiquem em desvantagem técnica desleal com relação aos demais do grupo.
+O prêmio em 2016 já anunciou os finalistas, mas ainda está em aberto para
+definir as classificações. Assumindo que apenas 2 dos 13 finalistas não
+são o nicho que, historicamente, sempre tem vantagem no evento, esta proposta
+sugere que ao menos estes dois concorrentes tenham uma categoria especial. Se
+a comissão [comissão julgadora](comissao-julgadora.md) acreditar ser pertinente
+pode valer a pena ver entre os candidatos que não foram bons o suficientes para
+competir contra os demais e incluir novamente na premiação.
+
+Fato pertinente: todos os anos, exatamente dois projetos que não se incluem
+no nicho típico conseguem se tornar finalistas, e, destes, metade ganha
+premiação. Ao criar uma categoria exclusiva, com 3 lugares, a comissão julgadora
+garante 300% de participação em relação a anos anteriores. Isso é bastante
+coisa!
 
 Veja mais em [proposta para recategorização já em 2016 de projetos diferentes](proposta-recategorizacao-2016.md).
 
