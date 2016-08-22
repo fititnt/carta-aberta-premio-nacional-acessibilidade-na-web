@@ -1,7 +1,14 @@
-# Prêmio Nacional de Acessibilidade Web
-Carta aberta de críticas construtivas ao Todos@Web. Ou, na pior das hipóteses, um guia com referências estatísticas de como não sugerir projetos, mesmo sendo os mais comuns na internet, terão menos de 7% de chance de ganhar premiação.
+# Carta aberta ao Prêmio Nacional de Acessibilidade na Web
+Carta aberta de críticas construtivas ao [Prêmio Nacional de Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md).
+A ideia original surgiu por mudanças na categorização do prêmio de modo que
+permita uma melhor diversidade. Segundo [dados estatísticos](#dados-estatísticos),
+ainda que o prêmio deveria premiar apenas a **forma de implementação técnica**,
+implicitamente projetos que **não tiverem conteúdo específico**, históricamente
+tem uma chance extremamente baixa de serem finalistas e mais baixa ainda de
+ganharem.
 
-[As chamadas para participar do projeto](http://tableless.com.br/por-que-inscrever-seu-site-no-premio-de-acessibilidade/), com base em dados de premiações anteriores e nas dificuldades técnicas naturais, frustram desenvolvedores, e, **no mínimo**, deveria haver uma separação clara também quanto ao conteúdo (razão de ser) dos sites.
+Esta carta aberta pretende dar chance real a desenvolvedores, que são até mesmo
+[convencidos a participar como se fosse fácil, mas não é o caso](http://tableless.com.br/por-que-inscrever-seu-site-no-premio-de-acessibilidade/).
 
 ## Prêmio sobre "forma como código é implementado", porém objetivo do site é determinante
 
@@ -37,7 +44,7 @@ Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como pr
 |-----|---------|----------|---------|-----------|-------|
 | 2012 | 1 | Não  |  Sim  | Sim  | [Acessibilidade Digital do Governo do Estado de São Paulo por Hudson Augusto](http://premio.ceweb.br/2012/finalistas/01.htm)  |
 | 2012 | 1 | Não | Não  |  Sim  |  [Marco Antonio de Queiroz - MAQ](http://premio.ceweb.br/2012/finalistas/02.htm)  |
-| 2012 | 3 | Não | Sim  |  Não  |  [Secretaria de Educação a Distância - UFSCar] (http://premio.ceweb.br/2012/finalistas/03.htm)  | 
+| 2012 | 3 | Não | Sim  |  Não  |  [Secretaria de Educação a Distância - UFSCar] (http://premio.ceweb.br/2012/finalistas/03.htm)  |
 | 2012 | 0 | Não | ?  |  Sim  |  [Adeva] (http://www.adeva.org.br/)  |
 | 2012 | 0 | Não | ?  |  Sim  |  [Fundação Dorina Nowill para Cegos] (http://www.fundacaodorina.org.br/)  |
 | 2012 | 2 | Não | Sim  |  Não  |  [Portal da Prefeitura Municipal de João Pessoa] (http://www.joaopessoa.pb.gov.br/)  |
