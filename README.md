@@ -104,6 +104,16 @@ finalistas e vencedores de todas as edições da premiação. Eles não levam em
 consideração quantidade total de submissões, pois este tipo de dado não
 é publico, e por isso tem apenas relação entre finalistas e vencedores.
 
+TL;DR:
+1. A chance de ser finalista de projetos que não tem um [nicho específico
+é desproporcionalmente baixa](conteudo-influencia-dificuldade.md).
+2. A chance de vencer, sem ser do mesmo nicho, é menor ainda
+3. Todos os anos, exatos dois projetos fora do nicho típico, são escolhidos
+como finalistas
+4. Dos finalistas fora do nicho específico, exatamente metade, 1, vence algo
+5. A proporção de participantes fora do nicho só está crescendo porque
+o número de finalistas está lentamente diminuindo.
+
 ## Chance de vencer
 
 | Ano | Proporção | Chance C.:Aces/Util.Pub | Chance C.: Outros |
@@ -208,7 +218,9 @@ consideração quantidade total de submissões, pois este tipo de dado não
 | 2016 | ? | Não | Sim  |  Sim  |  [Prof. Antônio Borges, da UFRJ] (http://intervox.nce.ufrj.br/~antonio2/)  |
 
 **Notas**
-- 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia)
+- 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia);
+também possúi em seu rodapé o logo do Governo Federal do Brasil, e não fica
+claro _se é ou não governamental_ para propósitos deste calculo.
 
 ## Categorias por ano
 

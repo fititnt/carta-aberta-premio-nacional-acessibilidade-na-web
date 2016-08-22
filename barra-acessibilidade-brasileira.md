@@ -11,7 +11,7 @@ aparência de seu website**.
 
 ## O que é a "barra de acessibilidade" do padrão visual do governo brasileiro
 
-Uma das marcas registradas de “site acessível” é uma barra de topo, 
+Uma das marcas registradas de “site acessível” é uma barra de topo,
 que é tida como modelo pelo menos em sites governamentais, e que é
 reproduzida em sites como o http://www.brasil.gov.br/.
 
@@ -20,7 +20,7 @@ Ela geralmente possuí o seguinte:
 - Link de pular para conteúdo principal (sempre tem)
 - Link para pular para outras áreas (comum: menu, busca)
 - Botão para alterar contraste
-- Referências a teclas de atalho "accesskeys" (você usa uma combinação de 
+- Referências a teclas de atalho "accesskeys" (você usa uma combinação de
 teclas para chegar a um local)
 - Um link para explicar como usar os outros links
 
@@ -89,10 +89,10 @@ lá até ela ser necessária.
 
 **Resposta longa**
 
-Diversos países do mundo simplesmente não tem uma barra padrão 
-de acessibilidade como a brasileira. Como o objetivo real da barra de 
+Diversos países do mundo simplesmente não tem uma barra padrão
+de acessibilidade como a brasileira. Como o objetivo real da barra de
 acessibilidade é, no fundo, ser acessada por quem usa leitor de tela, e isso é
-feito ao pressionar a tela "tab", o padrão é unicamente exibir uma ou mais 
+feito ao pressionar a tela "tab", o padrão é unicamente exibir uma ou mais
 opções de acessibilidade APENAS quando a tecla tab é pressionada.
 
 Essa técnica é possível usando apenas CSS e, em alguns casos, jávascript, e,
@@ -105,3 +105,8 @@ ver os menus):
 - http://www.government.se
 - https://www.canada.ca/en.html
 - http://europa.eu
+
+## Prejuízo geral de endorsar, ainda que implicitamente, o padrão brasileiro em sites não governamentais
+
+
+Leia [Problema de endorsar padrões irrelevantes na melhoria de acessibilidade](problema-de-endorsar-padroes-irrelevantes.md).

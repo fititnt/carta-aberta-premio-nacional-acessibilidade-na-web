@@ -36,4 +36,4 @@ Os demais navegadores também estão bem desatualizados para um ano como 2016.
 ## Explicitamente deixa claro que não é necessário seguir o modelo de site governamental brasileiro
 
 Veja [barra-acessibilidade-brasileira.md](barra-acessibilidade-brasileira.md)
-para maiores informações.
+para maiores informações e [Problema de endorsar padrões irrelevantes na melhoria de acessibilidade](problema-de-endorsar-padroes-irrelevantes.md).
