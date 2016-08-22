@@ -35,6 +35,16 @@ porém [não é bem assim](onteudo-influencia-dificuldade.md).
 ## Propostas de alterações do prêmio Todos@Web
 
 ### 1. Dar chance REAL e proporcional para sites que não atendem o nicho típico
+
+Independente _da relevância_ de um projeto submetido, na prática é
+muito mais difícil para desenvolvedores competir com sites que são pagos
+com impostos ou que até mesmo o conteúdo é sobre acessibilidade. Esta
+proposta é para criar ao menos uma categoria que explicitamente
+não permita esse tipo de conteúdo.
+
+Saiba mais em [o conteúdo do site influencia na avaliação](conteudo-influencia-dificuldade.md).
+
+<!--
 Prêmio sobre "forma como código é implementado", porém objetivo do site é
 determinante.
 
@@ -47,12 +57,16 @@ desestimuladora.
 É natural deduzir que, a maioria da internet brasileira, não é representada
 pelo nicho que tem mais vantagem de até mesmo chegar como finalista e que
 **para um prêmio cujo principal objetivo é melhorar possívelmente melhorar acessibilidade na web brasileira, está falhando ao não dar chance aos projetos que representam a maioria dos que são feitos no Brasil**.
+-->
 
 ### 2. Já em 2016, imediatamente, criar categoria diferentes no "Projetos Web Sociedade"
+
 Se for coerente a 1ª proposta da carta aberta, antes mesmo da votação que vai
 decidir os vencedores de 2016, subdividir a atual categoria "Projetos Web
 Sociedade" de modo que "Portal Unimed Fortaleza" e "Website Luiza Caspary"
 não fiquem em desvantagem técnica desleal com relação aos demais do grupo.
+
+Veja mais em [proposta para recategorização já em 2016 de projetos diferentes](proposta-recategorizacao-2016.md).
 
 ### 3. Deixar, de forma clara, quem é a comissão organizadora do evento
 
@@ -62,7 +76,11 @@ mesmo com tamanha importância, em um país com 200 milhões de habitantes,
 e com uma das comunidades de desenvolvedores mais ativas do mundo, não
 está claro em qualquer lugar quem é a comissão julgadora.
 
-Veja mais detalhes em [da comissão julgadora do prêmio](comissao-julgadora.md)
+Veja mais detalhes em [da comissão julgadora do prêmio](comissao-julgadora.md).
+
+### 4. Modificar critérios de avaliação obsoletos/irrelevantes
+
+Veja [proposta para alteração nos quesitos de avaliação](quesitos-de-avaliacao.md)
 
 -----
 # Dados estatísticos
