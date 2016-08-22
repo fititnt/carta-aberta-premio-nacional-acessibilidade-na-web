@@ -1,8 +1,8 @@
 # Carta aberta ao Prêmio Nacional de Acessibilidade na Web
 Essa é uma carta aberta com críticas construtivas ao [Prêmio Nacional de
-Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md), que é o principal
-(e talvez único) prêmio de reconhecimento, e dinheiro, quanto à qualidade de
-websites e aplicativos brasileiros.
+Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md),
+que é o principal (e talvez único) prêmio de reconhecimento, e dinheiro, quanto
+à qualidade de websites e aplicativos brasileiros.
 
 A razão de existir dessa carta é viabilizar também o reconhecimento de
 desenvolvedores que não têm a sorte de submeter para avaliação projetos cujo
