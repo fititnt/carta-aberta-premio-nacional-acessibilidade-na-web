@@ -1,11 +1,11 @@
 # Carta aberta ao Prêmio Nacional de Acessibilidade na Web
 Essa é uma carta aberta com críticas construtivas ao [Prêmio Nacional de
 Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md),
-que é o principal (e talvez único) prêmio de reconhecimento, e dinheiro, quanto
-à qualidade de websites e aplicativos brasileiros.
+que **é o principal (e talvez único) prêmio de reconhecimento, e dinheiro, quanto
+à qualidade de websites e aplicativos brasileiros**.
 
 A razão de existir dessa carta é viabilizar também o reconhecimento de
-desenvolvedores que não têm a sorte de submeter para avaliação projetos cujo
+desenvolvedores que não _têm a sorte_ de submeter para avaliação projetos cujo
 nicho ganha a maioria absoluta dos prêmios, mesmo que esses sites representem
 uma pequena porcentagem da internet brasileira.
 
@@ -24,7 +24,7 @@ nicho governamental](barra-acessibilidade-brasileira.md). A padronização
 estabelecida pelo governo é, [como todas as outras já feitas pelo estado](http://www.forbes.com/sites/johngoodman/2013/03/29/regulations-are-very-expensive-but-their-economic-value-is-negative/),
 uma forma cara de engessar inovações, criando amarras para modelos dinâmicos
 e que estão em constante mudança - e qualquer tipo de burocracia não consegue
-acompanhar essa velocidade. 
+acompanhar essa velocidade.
 
 
 <!--
@@ -79,12 +79,6 @@ que ao menos estes dois concorrentes tenham uma categoria especial. Se a
 a pena ver entre os candidatos que não foram bons o suficientes para competir
 contra os demais e incluir novamente na premiação.
 
-Fato pertinente: todos os anos, exatamente dois projetos que não se incluem no
-nicho típico conseguem se tornar finalistas, e, destes, metade ganha premiação.
-Ao criar uma categoria exclusiva, com 3 lugares, a comissão julgadora garante
-um aumento de 300% na participação em relação a anos anteriores. Isso é
-bastante coisa!
-
 Veja mais em [proposta para recategorização já em 2016 de projetos diferentes](proposta-recategorizacao-2016.md).
 
 ### 3. Deixar, de forma clara, quem é a comissão organizadora do evento
@@ -100,10 +94,15 @@ Veja mais detalhes em [da comissão julgadora do prêmio](comissao-julgadora.md)
 
 ### 4. Modificar critérios de avaliação obsoletos/irrelevantes
 
-Veja [proposta para alteração nos quesitos de avaliação](quesitos-de-avaliacao.md)
+Veja [proposta para alteração nos quesitos de avaliação](quesitos-de-avaliacao.md).
 
 -----
 # Dados estatísticos
+
+Os dados abaixo foram coletados manualmente das listagens de todos os
+finalistas e vencedores de todas as edições da premiação. Eles não levam em
+consideração quantidade total de submissões, pois este tipo de dado não
+é publico, e por isso tem apenas relação entre finalistas e vencedores.
 
 ## Chance de vencer
 
@@ -193,20 +192,20 @@ Veja [proposta para alteração nos quesitos de avaliação](quesitos-de-avaliac
 | 2014 | 2 | Não | ?  | Sim |  [Facilitas Player] (http://premio.ceweb.br/2014/finalistas/facilitas.html)  |
 | 2014 | 1 | Não | ?  |  Sim  |  [WebHelpDyslexia] (http://premio.ceweb.br/2014/finalistas/webhelpdyslexia.html)  |
 | 2015 | 0 | 0 | 0  |  0  |  [0] (0)  | Em 2015 o evento não foi realizado.
-| 2016 | ? | Não | Sim  |  Não  |  [Portal Câmara de Suzano] (http://www.camarasuzano.sp.gov.br/)  | 
-| 2016 | ? | Não | Sim  |  Não  |  [Portal da Câmara Municipal de São José dos Campos] (http://www.camarasjc.sp.gov.br/)  | 
-| 2016 | ? | Não | Sim  |  Não  |  [Portal Dataprev] (http://portal.dataprev.gov.br/)  | 
-| 2016 | ? | Não | Sim  |  Não  |  [Portal de Serviços de Vitória] (http://portalservicos.vitoria.es.gov.br/)  | 
-| 2016 | ? | Não | Sim  |  Não  |  [Site do Núcleo de Acessibilidade e Usabilidade da Unirio] (http://nau.uniriotec.br/)  | 
-| 2016 | ? | Não | Não  |  Sim  |  [A1Br.org - o primeiro portal de notícias acessível do Brasil] (http://www.a1br.org/)  | 
-| 2016 | ? | Não | Não  |  Sim  |  [GAIA: Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo] (http://talitapagani.com/gaia/)  | 
-| 2016 | ? | Não | Não  |  Sim  |  [Guia de Serviços para Pessoas com Deficiência e Mobilidade Reduzida] (http://www.guiaacessivel.com.br/)  | 
-| 2016 | ? | Sim | Não  |  Não  |  [Portal Unimed Fortaleza] (http://www.unimedfortaleza.com.br/)  | 
-| 2016 | ? | Sim | Não  |  Não  |  [Website Luiza Caspary] (http://www.luizacaspary.com.br/)  | 
-| 2016 | ? | Não | Sim  |  Sim  |  [AsesWEB] (http://asesweb.governoeletronico.gov.br/ases/)  | 
-| 2016 | ? | Não | Não  |  Sim  |  [F123 Access] (http://f123access.com/pt-br/)  | 
-| 2016 | ? | Não | Não  |  Sim  |  [Suíte VLibras] (http://www.vlibras.gov.br/)  | 
-| 2016 | ? | Não | Sim  |  Sim  |  [Prof. Antônio Borges, da UFRJ] (http://intervox.nce.ufrj.br/~antonio2/)  | 
+| 2016 | ? | Não | Sim  |  Não  |  [Portal Câmara de Suzano] (http://www.camarasuzano.sp.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal da Câmara Municipal de São José dos Campos] (http://www.camarasjc.sp.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal Dataprev] (http://portal.dataprev.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal de Serviços de Vitória] (http://portalservicos.vitoria.es.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Site do Núcleo de Acessibilidade e Usabilidade da Unirio] (http://nau.uniriotec.br/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [A1Br.org - o primeiro portal de notícias acessível do Brasil] (http://www.a1br.org/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [GAIA: Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo] (http://talitapagani.com/gaia/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [Guia de Serviços para Pessoas com Deficiência e Mobilidade Reduzida] (http://www.guiaacessivel.com.br/)  |
+| 2016 | ? | Sim | Não  |  Não  |  [Portal Unimed Fortaleza] (http://www.unimedfortaleza.com.br/)  |
+| 2016 | ? | Sim | Não  |  Não  |  [Website Luiza Caspary] (http://www.luizacaspary.com.br/)  |
+| 2016 | ? | Não | Sim  |  Sim  |  [AsesWEB] (http://asesweb.governoeletronico.gov.br/ases/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [F123 Access] (http://f123access.com/pt-br/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [Suíte VLibras] (http://www.vlibras.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Sim  |  [Prof. Antônio Borges, da UFRJ] (http://intervox.nce.ufrj.br/~antonio2/)  |
 
 **Notas**
 - 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia)

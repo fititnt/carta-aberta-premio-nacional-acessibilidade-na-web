@@ -5,9 +5,20 @@ Você pode [abrir um tópico sugerindo outras alterações desta carta aberta pa
 
 ## Excluir validação automática de CSS
 
-http://jigsaw.w3.org/css-validator/
+A não ser que alguém [dê uma boa explicação de como CSS válido implica em acessibilidade melhorada](https://github.com/fititnt/carta-aberta-premio-nacional-acessibilidade-na-web/issues/new),
+a simples existência de uso de como uma regra a ser considerada nos critérios de
+avaliação do site http://jigsaw.w3.org/css-validator/ é um motivo que assusta
+potenciais projetos.
 
-TODO: explicar melhor
+O problema é que, enquanto HTML5 permite uma flexibilidade maravilhosa, e a
+web evoluiu a um ponto de permitir validar marcação HTML sem prejudicar
+significativamente qualidade do resultado final, por outro praticamente
+todos os principais frameworks de CSS usados no mercado não são validados
+nesta ferramenta.
+
+A sugestão de proposta é que a validação de CSS **seja removida completamente**
+dos critérios de avaliação, até porque algumas técnicas para melhorar
+acessibilidade junto a navegadores antigos implicam em CSS inválido.
 
 ## Excluir, ou pelo menos aumentar, requisitos mínimos de validação de navegador
 
@@ -18,6 +29,11 @@ Requisitos atuais:
 - Safari a partir da versão 5
 - Google Chrome a partir da versão 30
 
-Atualmente, os desenvolvedores são obrigados a testar seu site até mesmo em 
+Atualmente, os desenvolvedores são obrigados a testar seu site até mesmo em
 Internet Explorer 7.Esta versão não é nem mesmo suportada pela desenvolvedora.
 Os demais navegadores também estão bem desatualizados para um ano como 2016.
+
+## Explicitamente deixa claro que não é necessário seguir o modelo de site governamental brasileiro
+
+Veja [barra-acessibilidade-brasileira.md](barra-acessibilidade-brasileira.md)
+para maiores informações.

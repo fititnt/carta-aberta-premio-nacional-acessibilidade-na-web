@@ -10,11 +10,11 @@ de modo que "Portal Unimed Fortaleza" e "Website Luiza Caspary"
 não fiquem em desvantagem técnica desleal com relação aos demais do grupo,
 e permaneçam em um grupo exclusivo.
 
-Fato pertinente 1: todos os anos, exatamente dois projetos que não se incluem
-no nicho típico conseguem se tornar finalistas, e, destes, metade ganha
-premiação. Ao criar uma categoria exclusiva, com 3 lugares, a comissão julgadora
-garante 300% de participação em relação a anos anteriores. Isso é bastante
-coisa!
+Fato pertinente: todos os anos, exatamente dois projetos que não se incluem no
+nicho típico conseguem se tornar finalistas, e, destes, metade ganha premiação.
+Ao criar uma categoria exclusiva, com 3 lugares, a comissão julgadora garante
+um aumento de 300% na participação em relação a anos anteriores. Isso é
+bastante coisa!
 
 Curiosidade 1: para quem quer _fazer um bolão de apostas_ caso não haja
 modificações nas categorias, a projeção estatística de é que exatamente um
