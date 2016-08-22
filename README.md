@@ -182,6 +182,20 @@ Veja [proposta para alteração nos quesitos de avaliação](quesitos-de-avaliac
 | 2014 | 2 | Não | ?  | Sim |  [Facilitas Player] (http://premio.ceweb.br/2014/finalistas/facilitas.html)  |
 | 2014 | 1 | Não | ?  |  Sim  |  [WebHelpDyslexia] (http://premio.ceweb.br/2014/finalistas/webhelpdyslexia.html)  |
 | 2015 | 0 | 0 | 0  |  0  |  [0] (0)  | Em 2015 o evento não foi realizado.
+| 2016 | ? | Não | Sim  |  Não  |  [Portal Câmara de Suzano] (http://www.camarasuzano.sp.gov.br/)  | 
+| 2016 | ? | Não | Sim  |  Não  |  [Portal da Câmara Municipal de São José dos Campos] (http://www.camarasjc.sp.gov.br/)  | 
+| 2016 | ? | Não | Sim  |  Não  |  [Portal Dataprev] (http://portal.dataprev.gov.br/)  | 
+| 2016 | ? | Não | Sim  |  Não  |  [Portal de Serviços de Vitória] (http://portalservicos.vitoria.es.gov.br/)  | 
+| 2016 | ? | Não | Sim  |  Não  |  [Site do Núcleo de Acessibilidade e Usabilidade da Unirio] (http://nau.uniriotec.br/)  | 
+| 2016 | ? | Não | Não  |  Sim  |  [A1Br.org - o primeiro portal de notícias acessível do Brasil] (http://www.a1br.org/)  | 
+| 2016 | ? | Não | Não  |  Sim  |  [GAIA: Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo] (http://talitapagani.com/gaia/)  | 
+| 2016 | ? | Não | Não  |  Sim  |  [Guia de Serviços para Pessoas com Deficiência e Mobilidade Reduzida] (http://www.guiaacessivel.com.br/)  | 
+| 2016 | ? | Sim | Não  |  Não  |  [Portal Unimed Fortaleza] (http://www.unimedfortaleza.com.br/)  | 
+| 2016 | ? | Sim | Não  |  Não  |  [Website Luiza Caspary] (http://www.luizacaspary.com.br/)  | 
+| 2016 | ? | Não | Sim  |  Sim  |  [AsesWEB] (http://asesweb.governoeletronico.gov.br/ases/)  | 
+| 2016 | ? | Não | Não  |  Sim  |  [F123 Access] (http://f123access.com/pt-br/)  | 
+| 2016 | ? | Não | Não  |  Sim  |  [Suíte VLibras] (http://www.vlibras.gov.br/)  | 
+| 2016 | ? | Não | Sim  |  Sim  |  [Prof. Antônio Borges, da UFRJ] (http://intervox.nce.ufrj.br/~antonio2/)  | 
 
 **Notas**
 - 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia)
