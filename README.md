@@ -1,20 +1,22 @@
 # Carta aberta ao Prêmio Nacional de Acessibilidade na Web
-Está é uma carta aberta com críticas construtivas ao [Prêmio Nacional de Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md),
-que hoje **é o principal (e talvez único) prêmio de reconhecimento e de
-dinheiro quanto a qualidade de websites e aplicativos brasileiros**.
+Essa é uma carta aberta com críticas construtivas ao [Prêmio Nacional de
+Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md), que é o principal
+(e talvez único) prêmio de reconhecimento, e dinheiro, quanto à qualidade de
+websites e aplicativos brasileiros.
 
-A razão de existir desta carta é tornar viável também o reconhecimento de
-desenvolvedores que não _tem a sorte_ de submeter para avaliação projetos
-cujo nicho ganha a maioria absoluta dos prêmios, mesmo representando uma
-quantidade pouco significativa da internet brasileira.
+A razão de existir dessa carta é viabilizar também o reconhecimento de
+desenvolvedores que não têm a sorte de submeter para avaliação projetos cujo
+nicho ganha a maioria absoluta dos prêmios, mesmo que esses sites representem
+uma pequena porcentagem da internet brasileira.
 
-Esta carta defende, com justificativas plausíveis e dados estatísticos de anos
-anteriores, mudanças radicais, como ter categorias exclusivas para projetos
-que não não tenham como razão de existir de CONTEÚDO acessibilidade, nem
-sejam pagos com impostos (dos quais, alías, são obrigados a serem acessíveis),
-bem como parar de penalizar, pelo menos em nova categoria, critérios de
-avaliação que, sinceramente, são considerados completamnte inúteis em locais
-como na União Européia para melhorar a acessibilidade de fato.
+Essa carta defende mudanças radicais, com justificativas plausíveis e dados
+estatísticos referentes aos anos anteriores. Propõe a criação de ao menos uma
+nova categoria para projetos que não tenham como razão de existir CONTEÚDO
+sobre acessibilidade, nem que sejam pagos com impostos (os quais, alías, são
+obrigados a serem acessíveis). Sugere também que parem de ser usados como
+critérios de avaliação métodos considerados obsoletos para melhorar a
+acessibilidade de fato.
+
 
 <!--
 A ideia original surgiu por mudanças na categorização do prêmio de modo que
