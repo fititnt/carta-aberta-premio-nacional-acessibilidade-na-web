@@ -8,13 +8,40 @@ tem uma chance extremamente baixa de serem finalistas e mais baixa ainda de
 ganharem.
 
 Esta carta aberta pretende dar chance real a desenvolvedores, que são até mesmo
-[convencidos a participar como se fosse fácil, mas não é o caso](http://tableless.com.br/por-que-inscrever-seu-site-no-premio-de-acessibilidade/).
+[convencidos a participar como se fosse fácil](http://tableless.com.br/por-que-inscrever-seu-site-no-premio-de-acessibilidade/),
+porém [não é bem assim](onteudo-influencia-dificuldade.md).
 
-## Prêmio sobre "forma como código é implementado", porém objetivo do site é determinante
+## Propostas
 
-Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como projetos são feitos, na prática [o conteúdo do site influencia na avaliação](conteudo-influencia-dificuldade.md), e se não houver mudanças pelo menos nas divisões de categorias do prêmio, mesmo que haja esforço enorme seu para competir, você sofrerá uma concorrência desestimuladora.
+### 1. Dar chance REAL e proporcional para sites que não atendem o nicho típico
+Prêmio sobre "forma como código é implementado", porém objetivo do site é
+determinante.
 
-É natural deduzir que, a maioria da internet brasileira, não é representada pelo nicho que tem mais vantagem de até mesmo chegar como finalista e que **para um prêmio cujo principal objetivo é melhorar possívelmente melhorar acessibilidade na web brasileira, está falhando ao não dar chance aos projetos que representam a maioria dos que são feitos no Brasil**.
+Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como
+projetos são feitos, na prática [o conteúdo do site influencia na avaliação](conteudo-influencia-dificuldade.md),
+e se não houver mudanças pelo menos nas divisões de categorias do prêmio,
+mesmo que haja esforço enorme seu para competir, você sofrerá uma concorrência
+desestimuladora.
+
+É natural deduzir que, a maioria da internet brasileira, não é representada
+pelo nicho que tem mais vantagem de até mesmo chegar como finalista e que
+**para um prêmio cujo principal objetivo é melhorar possívelmente melhorar acessibilidade na web brasileira, está falhando ao não dar chance aos projetos que representam a maioria dos que são feitos no Brasil**.
+
+### 2. Já em 2016, imediatamente, criar categoria diferentes no "Projetos Web Sociedade"
+Se for coerente a 1ª proposta da carta aberta, antes mesmo da votação que vai
+decidir os vencedores de 2016, subdividir a atual categoria "Projetos Web
+Sociedade" de modo que "Portal Unimed Fortaleza" e "Website Luiza Caspary"
+não fiquem em desvantagem técnica desleal com relação aos demais do grupo.
+
+### 3. Deixar, de forma clara, quem é a comissão organizadora do evento
+
+O prêmio é a maior, senão mesmo único, que pretente atestar qualidade de
+um website no Brasil. A W3C não tem equivalentes em outras áreas. Ainda assim,
+mesmo com tamanha importância, em um país com 200 milhões de habitantes,
+e com uma das comunidades de desenvolvedores mais ativas do mundo, não
+está claro em qualquer lugar quem é a comissão julgadora.
+
+Veja mais detalhes em [da comissão julgadora do prêmio](comissao-julgadora.md)
 
 -----
 # Dados estatísticos
@@ -38,7 +65,14 @@ Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como pr
 | 2015 | 0: 0x0 | 0% | 0% |
 | 2016 | 13: 11x2 | 84.6% | 15.8% |
 
-## Lista completa
+## Lista completa de finalistas
+
+**Legenda**
+- **Ano**: ano do evento
+- **Premiado**: caso o finalista tenha sido premiado entre os 3 primeiros em uma subcategoria, sua posição
+- **C.Aces**.: a razão de existir do CONTEÚDO do projeto finalista envolve acessibilidade (dentro ou fora da web)
+- **C.Gov***: a razão de existir envolve governo ou algo que ele _deveria_ fazer. (Pode pensar como _contrário de instituição privada_, se preferir)
+- **C.Outros**: o conteúdo do site não está incluso no "C.Aces" e "C.Gov"
 
 | Ano | Premiado| C.Outros | C.Gov*  |  C.Aces.  |  Site |
 |-----|---------|----------|---------|-----------|-------|
@@ -103,13 +137,6 @@ Veja também que, por mais que o prêmio, em tese, avalie apenas a forma como pr
 
 **Notas**
 - 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia)
-
-**Legenda**
-- **Ano**: ano do evento
-- **Premiado**: caso o finalista tenha sido premiado entre os 3 primeiros em uma subcategoria, sua posição
-- **C.Aces**.: a razão de existir do CONTEÚDO do projeto finalista envolve acessibilidade (dentro ou fora da web)
-- **C.Gov***: a razão de existir envolve governo ou algo que ele _deveria_ fazer. (Pode pensar como _contrário de instituição privada_, se preferir)
-- **C.Outros**: o conteúdo do site não está incluso no "C.Aces" e "C.Gov"
 
 ## Categorias por ano
 
