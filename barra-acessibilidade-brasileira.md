@@ -6,7 +6,11 @@ visual_ ao seguir padrões como o europeu e americano.
 
 Sua crítica principal é que, ao menos para sites que não são obrigados a
 tê-las, **é possível ter um site acessível sem alterar visualmente a
-aparência de seu website**.
+aparência de seu website**, porém a quantidade de premiações para quem segue
+o padrão de governo, como esta barra, pode levar a acreditar que a barra
+é desproporcionalmente responsável pela acessibilidade e que, por ela
+exigir mudanças visuais em uma área de grande destaque, isso pode significar
+_assustar_ sites não governamentais de adotar boas práticas desta área.
 
 
 ## O que é a "barra de acessibilidade" do padrão visual do governo brasileiro
