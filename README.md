@@ -6,7 +6,15 @@ dinheiro quanto a qualidade de websites e aplicativos brasileiros**.
 A razão de existir desta carta é tornar viável também o reconhecimento de
 desenvolvedores que não _tem a sorte_ de submeter para avaliação projetos
 cujo nicho ganha a maioria absoluta dos prêmios, mesmo representando uma
-quantidade pouco significativa da internet Brasileira.
+quantidade pouco significativa da internet brasileira.
+
+Esta carta defende, com justificativas plausíveis e dados estatísticos de anos
+anteriores, mudanças radicais, como ter categorias exclusivas para projetos
+que não não tenham como razão de existir de CONTEÚDO acessibilidade, nem
+sejam pagos com impostos (dos quais, alías, são obrigados a serem acessíveis),
+bem como parar de penalizar, pelo menos em nova categoria, critérios de
+avaliação que, sinceramente, são considerados completamnte inúteis em locais
+como na União Européia para melhorar a acessibilidade de fato.
 
 <!--
 A ideia original surgiu por mudanças na categorização do prêmio de modo que
