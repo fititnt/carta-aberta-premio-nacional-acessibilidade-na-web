@@ -17,6 +17,15 @@ obrigados a serem acessíveis). Sugere também que parem de ser usados como
 critérios de avaliação métodos considerados obsoletos para melhorar a
 acessibilidade de fato.
 
+O pouco espaço para diversidade de finalistas aliado a modelizar um
+determinado padrão que os anteriores seguiram, dando a impressão de que seria
+a melhor opção, é até [**negativo para adoção de websites acessíveis** fora do
+nicho governamental](barra-acessibilidade-brasileira.md). A padronização
+estabelecida pelo governo é, [como todas as outras já feitas pelo estado](http://www.forbes.com/sites/johngoodman/2013/03/29/regulations-are-very-expensive-but-their-economic-value-is-negative/),
+uma forma cara de engessar inovações, criando amarras para modelos dinâmicos
+e que estão em constante mudança - e qualquer tipo de burocracia não consegue
+acompanhar essa velocidade. 
+
 
 <!--
 A ideia original surgiu por mudanças na categorização do prêmio de modo que
