@@ -1,17 +1,30 @@
 # Carta aberta ao Prêmio Nacional de Acessibilidade na Web
-Carta aberta de críticas construtivas ao [Prêmio Nacional de Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md).
+Está é uma carta aberta com críticas construtivas ao [Prêmio Nacional de Acessibilidade na Web "Todos@Web"](sobre-o-premio-nacional-acessibilidade-na-web.md),
+que hoje **é o principal (e talvez único) prêmio de reconhecimento e de
+dinheiro quanto a qualidade de websites e aplicativos brasileiros**.
+
+A razão de existir desta carta é tornar viável também o reconhecimento de
+desenvolvedores que não _tem a sorte_ de submeter para avaliação projetos
+cujo nicho ganha a maioria absoluta dos prêmios, mesmo representando uma
+quantidade pouco significativa da internet Brasileira.
+
+<!--
 A ideia original surgiu por mudanças na categorização do prêmio de modo que
 permita uma melhor diversidade. Segundo [dados estatísticos](#dados-estatísticos),
 ainda que o prêmio deveria premiar apenas a **forma de implementação técnica**,
 implicitamente projetos que **não tiverem conteúdo específico**, históricamente
 tem uma chance extremamente baixa de serem finalistas e mais baixa ainda de
 ganharem.
+-->
 
+<!--
 Esta carta aberta pretende dar chance real a desenvolvedores, que são até mesmo
 [convencidos a participar como se fosse fácil](http://tableless.com.br/por-que-inscrever-seu-site-no-premio-de-acessibilidade/),
 porém [não é bem assim](onteudo-influencia-dificuldade.md).
+-->
 
-## Propostas
+
+## Propostas de alterações do prêmio Todos@Web
 
 ### 1. Dar chance REAL e proporcional para sites que não atendem o nicho típico
 Prêmio sobre "forma como código é implementado", porém objetivo do site é
