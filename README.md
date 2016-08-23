@@ -105,6 +105,7 @@ consideração quantidade total de submissões, pois este tipo de dado não
 é publico, e por isso tem apenas relação entre finalistas e vencedores.
 
 TL;DR:
+
 1. A chance de ser finalista de projetos que não tem um [nicho específico
 é desproporcionalmente baixa](conteudo-influencia-dificuldade.md).
 2. A chance de vencer, sem ser do mesmo nicho, é menor ainda
