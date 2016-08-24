@@ -19,7 +19,7 @@ Uma das marcas registradas de “site acessível” é uma barra de topo,
 que é tida como modelo pelo menos em sites governamentais, e que é
 reproduzida em sites como o http://www.brasil.gov.br/.
 
-Ela geralmente possuí o seguinte:
+Ela geralmente possui o seguinte:
 
 - Link de pular para conteúdo principal (sempre tem)
 - Link para pular para outras áreas (comum: menu, busca)
@@ -39,7 +39,7 @@ atingir o mesmo objetivo sem prejudicar a área visual**.
 
 Talvez o principal motivo para existência desta barra é permitir que uma
 pessoa, que não queira ler o manual de uso de acessibilidade do site antes
-de começar a usá-lo, saber as teclas de acesso rápido.
+de começar a usá-lo, saiba as teclas de acesso rápido.
 
 Isto seria útil, não fosse por um motivo: há anos **há críticas muito pesadas
 da utilidade prática de accesskeys há anos**, e com uso de tags ARIA e
@@ -96,11 +96,11 @@ lá até ela ser necessária.
 Diversos países do mundo simplesmente não tem uma barra padrão
 de acessibilidade como a brasileira. Como o objetivo real da barra de
 acessibilidade é, no fundo, ser acessada por quem usa leitor de tela, e isso é
-feito ao pressionar a tela "tab", o padrão é unicamente exibir uma ou mais
-opções de acessibilidade APENAS quando a tecla tab é pressionada.
+feito ao pressionar a tecla "Tab", o padrão é unicamente exibir uma ou mais
+opções de acessibilidade APENAS quando a tecla Tab é pressionada.
 
-Essa técnica é possível usando apenas CSS e, em alguns casos, jávascript, e,
-normalmente, é usada para no primeiro pressionar de tab exibir link para
+Essa técnica é possível usando apenas CSS e, em alguns casos, JavaScript, e,
+normalmente, é usada para no primeiro pressionar de Tab exibir link para
 pular para o conteúdo.
 
 Exemplos de "barra de acessibilidade" invisível até ser usada (use tab para
