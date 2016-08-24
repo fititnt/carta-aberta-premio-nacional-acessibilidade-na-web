@@ -3,11 +3,11 @@
 _Veja também
 e [Sugestões de mudanças nos quesitos de avaliação](quesitos-de-avaliacao.md)_
 
-**"Organizações, perdem um tempo desproporcional discutindo coisas triviais
+**"Organizações perdem um tempo desproporcional discutindo coisas triviais,
 enquanto assuntos sérios e polêmicos são deixados de lado porque são mais
 complexos e desconhecidos até então; Um exemplo classico é um comitê que
 define a implantação de uma usina nuclear e passa muito tempo decidindo
-material a ser usado no guardador de biclicletas em vez de outras coisas,
+material a ser usado no guardador de bicicletas em vez de outras coisas,
 como questões de segurança do reator nuclear"** -- Lei da Trivialidade de
 Parkinson
 
@@ -26,7 +26,7 @@ _parece ser muito difícil_.
 TODO: descrever melhor este tópico.
 
 ## Da (ainda que acidental) exigência de, para ser acessível, prejudicar
-visualmente áreas de destaque de um site
+Visualmente áreas de destaque de um site
 Vide [Criticas quanto a endorsar “barra de acessibilidade” visível como padrão](barra-acessibilidade-brasileira.md)
 
 TODO: descrever melhor este tópico.
