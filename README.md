@@ -82,7 +82,7 @@ contra os demais e incluir novamente na premiação.
 
 Veja mais em [proposta para recategorização já em 2016 de projetos diferentes](proposta-recategorizacao-2016.md).
 
-### 3. Deixar, de forma clara, quem é a comissão organizadora do evento
+### 3. Deixar, de forma clara, quem é a comissão julgadora do evento
 
 O prêmio é o maior, senão o único, que pretende atestar a qualidade de um
 website no Brasil. A W3C não tem equivalentes em outras áreas. Ainda assim,
