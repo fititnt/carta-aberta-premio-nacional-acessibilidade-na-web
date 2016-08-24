@@ -12,7 +12,7 @@ potenciais projetos.
 
 O problema é que, enquanto HTML5 permite uma flexibilidade maravilhosa, e a
 web evoluiu a um ponto de permitir validar marcação HTML sem prejudicar
-significativamente qualidade do resultado final, por outro praticamente
+significativamente qualidade do resultado final, por outro lado praticamente
 todos os principais frameworks de CSS usados no mercado não são validados
 nesta ferramenta.
 
@@ -33,7 +33,7 @@ Atualmente, os desenvolvedores são obrigados a testar seu site até mesmo em
 Internet Explorer 7.Esta versão não é nem mesmo suportada pela desenvolvedora.
 Os demais navegadores também estão bem desatualizados para um ano como 2016.
 
-## Explicitamente deixa claro que não é necessário seguir o modelo de site governamental brasileiro
+## Explicitamente deixar claro que não é necessário seguir o modelo de site governamental brasileiro
 
 Veja [barra-acessibilidade-brasileira.md](barra-acessibilidade-brasileira.md)
 para maiores informações e [Problema de endorsar padrões irrelevantes na melhoria de acessibilidade](problema-de-endorsar-padroes-irrelevantes.md).
