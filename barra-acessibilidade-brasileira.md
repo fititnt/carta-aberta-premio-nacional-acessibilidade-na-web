@@ -13,7 +13,7 @@ exigir mudanças visuais em uma área de grande destaque, isso pode significar
 _assustar_ sites não governamentais de adotar boas práticas desta área.
 
 
-![Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab](gifs/barra-acessibilidade-visual-vs-escondida.gif?raw=true "Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab")
+![Animação: exibe diversos sites não .gov.br, e ressalta que o topo deles é na maioria das vezes uma copia do padrao governamental](gifs/maioria-vencedores-topo-igual-receio-inovacao.gif?raw=true "Mesmo para sites não governamentais, premia-se na maioria das vezes sites que copiam a praticamente inutil barra de acessibilidade, sem margem para inovação, e desestimulando fortemente adoção em grandes portais")
 
 
 ## O que é a "barra de acessibilidade" do padrão visual do governo brasileiro
@@ -95,6 +95,10 @@ de páginas do governo_.
 lá até ela ser necessária.
 
 **Resposta longa**
+
+
+![Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab](gifs/barra-acessibilidade-visual-vs-escondida.gif?raw=true "Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab")
+
 
 Diversos países do mundo simplesmente não tem uma barra padrão
 de acessibilidade como a brasileira. Como o objetivo real da barra de

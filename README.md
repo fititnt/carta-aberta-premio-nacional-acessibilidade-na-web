@@ -26,6 +26,7 @@ uma forma cara de engessar inovações, criando amarras para modelos dinâmicos
 e que estão em constante mudança - e qualquer tipo de burocracia não consegue
 acompanhar essa velocidade.
 
+![Animação: exibe diversos sites não .gov.br, e ressalta que o topo deles é na maioria das vezes uma copia do padrao governamental](gifs/maioria-vencedores-topo-igual-receio-inovacao.gif?raw=true "Mesmo para sites não governamentais, premia-se na maioria das vezes sites que copiam a praticamente inutil barra de acessibilidade, sem margem para inovação, e desestimulando fortemente adoção em grandes portais")
 
 <!--
 A ideia original surgiu por mudanças na categorização do prêmio de modo que

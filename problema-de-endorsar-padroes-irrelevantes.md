@@ -1,7 +1,7 @@
 # Problema de endorsar padrões irrelevantes na melhoria de acessibilidade
 
 _Veja também
-e [Sugestões de mudanças nos quesitos de avaliação](quesitos-de-avaliacao.md)_
+e [Sugestões de mudanças nos quesitos de avaliação](quesitos-de-avaliacao.md)._
 
 **"Organizações perdem um tempo desproporcional discutindo coisas triviais,
 enquanto assuntos sérios e polêmicos são deixados de lado porque são mais
