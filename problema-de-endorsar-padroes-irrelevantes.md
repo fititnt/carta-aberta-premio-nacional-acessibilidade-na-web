@@ -25,8 +25,9 @@ _parece ser muito difícil_.
 
 TODO: descrever melhor este tópico.
 
-## Da (ainda que acidental) exigência de, para ser acessível, prejudicar
-Visualmente áreas de destaque de um site
-Vide [Criticas quanto a endorsar “barra de acessibilidade” visível como padrão](barra-acessibilidade-brasileira.md)
+## Da (ainda que acidental) exigência de, para ser acessível, endorsar padrões que jamais seriam aceitos em sites de propósito geral
+
+
+Vide [Criticas quanto a endorsar, mesmo que implicitamente, “barra de acessibilidade” visível como padrão](barra-acessibilidade-brasileira.md).
 
 TODO: descrever melhor este tópico.

@@ -12,6 +12,7 @@ o padrão de governo, como esta barra, pode levar a acreditar que a barra
 exigir mudanças visuais em uma área de grande destaque, isso pode significar
 _assustar_ sites não governamentais de adotar boas práticas desta área.
 
+
 ![Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab](gifs/barra-acessibilidade-visual-vs-escondida.gif?raw=true "Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab")
 
 
@@ -115,4 +116,4 @@ ver os menus):
 ## Prejuízo geral de endorsar, ainda que implicitamente, o padrão brasileiro em sites não governamentais
 
 
-Leia [Problema de endorsar padrões irrelevantes na melhoria de acessibilidade](problema-de-endorsar-padroes-irrelevantes.md).
+Leia [problema de endorsar padrões irrelevantes na melhoria de acessibilidade](problema-de-endorsar-padroes-irrelevantes.md).

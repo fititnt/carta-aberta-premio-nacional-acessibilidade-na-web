@@ -92,8 +92,18 @@ publicamente na primeira edição.
 
 Veja mais detalhes em [da comissão julgadora do prêmio](comissao-julgadora.md).
 
-### 4. Modificar critérios de avaliação obsoletos/irrelevantes
+### 4. Modificar critérios de avaliação obsoletos/irrelevantes e explicitamente dar margem para inovação
 
+Um dos [problema de endorsar padrões irrelevantes na melhoria de acessibilidade](problema-de-endorsar-padroes-irrelevantes.md)
+é que, na melhor das hipóteses, eles jogam tempo fora de práticas que são
+úteis e, na pior, impedem que sites de grande acesso adotarem a ideia de
+melhorar inclusão digital. A barra de acessibilidade brasileira ocupa
+**permanentemente** em tela algo que jamais seria aceito em sites que cada pixel
+vale muito:
+
+![Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab](gifs/barra-acessibilidade-visual-vs-escondida.gif?raw=true "Comparativo entre barra de acessibilidade brasileira, que sempre ocupa espaço precioso em tela, com alternativas usadas em outros países, que exibem opções de acessibilidade apenas quando necessário, ao apertar tela tab")
+
+Para piorar, as regras atuais obrigam requisitos que são simplesmente inúteis.
 Veja [proposta para alteração nos quesitos de avaliação](quesitos-de-avaliacao.md).
 
 -----
