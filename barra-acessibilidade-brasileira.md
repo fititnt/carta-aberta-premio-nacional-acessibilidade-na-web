@@ -44,7 +44,7 @@ Talvez o principal motivo para existência desta barra é permitir que uma
 pessoa, que não queira ler o manual de uso de acessibilidade do site antes
 de começar a usá-lo, saiba as teclas de acesso rápido.
 
-Isto seria útil, não fosse por um motivo: há anos **há críticas muito pesadas
+Isto seria útil, não fosse por um motivo: **há críticas muito pesadas
 da utilidade prática de accesskeys há anos**, e com uso de tags ARIA e
 determinadas tags HTML5, seu uso ficou ainda mais obsoleto.
 
