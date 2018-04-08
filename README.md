@@ -158,76 +158,76 @@ o número de finalistas está lentamente diminuindo.
 |-----|---------|----------|---------|-----------|-------|
 | 2012 | 1 | Não  |  Sim  | Sim  | [Acessibilidade Digital do Governo do Estado de São Paulo por Hudson Augusto](http://premio.ceweb.br/2012/finalistas/01.htm)  |
 | 2012 | 1 | Não | Não  |  Sim  |  [Marco Antonio de Queiroz - MAQ](http://premio.ceweb.br/2012/finalistas/02.htm)  |
-| 2012 | 3 | Não | Sim  |  Não  |  [Secretaria de Educação a Distância - UFSCar] (http://premio.ceweb.br/2012/finalistas/03.htm)  |
-| 2012 | 0 | Não | ?  |  Sim  |  [Adeva] (http://www.adeva.org.br/)  |
-| 2012 | 0 | Não | ?  |  Sim  |  [Fundação Dorina Nowill para Cegos] (http://www.fundacaodorina.org.br/)  |
-| 2012 | 2 | Não | Sim  |  Não  |  [Portal da Prefeitura Municipal de João Pessoa] (http://www.joaopessoa.pb.gov.br/)  |
-| 2012 | 1 | Não | Sim  |  Não  |  [Portal da Prefeitura de Rio das Ostras] (http://www.riodasostras.rj.gov.br/)  |
-| 2012 | 3 | Não | Sim  |  Sim  |  [Programa Censo-Inclusão de Pessoas com Deficiência e Mobilidade Reduzida da Prefeitura de São Paulo] (https://www.censoinclusao.sp.gov.br/)  |
-| 2012 | 3 | Não | Não  |  Sim  |  [Clareou - O Primeiro Buscador de Sites Acessíveis do Brasil!] (http://www.clareou.com.br/)  |
-| 2012 | 1 | **Sim** <sup>1</sup> | Não  |  Não  |  [Hotel Fazenda Parque dos Sonhos] (http://www.parquedossonhos.com.br/)  |
-| 2012 | 0 | Não | Sim  |  Sim  |  [Selur Social] (http://www.selursocial.org.br/)  |
-| 2012 | 2 | Não | Sim  |  Sim  |  [Site Acessibilidade Virtual - Informação ao alcance de todos] (http://bento.ifrs.edu.br/acessibilidade/)  |
-| 2012 | 0 | **Sim** | Não  |  Não |  [Site Tuboar] (http://www.tuboar.com.br/)  |
-| 2012 | 2 | Não | Não  |  Sim  |  [Bengala Legal] (http://bengalalegal.com/)  |
-| 2012 | 0 | Não | Sim  |  Sim  |  [Blog Acessibilidade Virtual - Informação ao alcance de todos] (http://blog.bento.ifrs.edu.br/)  |
-| 2012 | 3 | Não | Não  |  Sim  |  [Cartilha Acessibilidade Digital - Lupa Digital] (http://www.lupadigital.info/)  |
-| 2012 | 0 | Não | Não  |  Sim  |  [Projeto Diversa] (http://www.diversa.org.br/)  |
-| 2012 | 1 | Não | Não  |  Sim  |  [Vida Mais Livre] (http://vidamaislivre.com.br/)  |
-| 2012 | 2 | Não | Não  | Sim  |  [AccessibilityUtil.com, uma ferramenta de colaboração] (http://premio.ceweb.br/2012/finalistas/04.htm)  |
-| 2012 | 3 | Não | Sim  |  Sim  |  [Ferramenta CLAWS] (http://premio.ceweb.br/2012/finalistas/05.htm)  |
-| 2012 | 0 | Não | Não  |  Sim  |  [LEBRAILLETWT] (http://premio.ceweb.br/2012/finalistas/06.htm)  |
-| 2012 | 1 | Não | Não  |  Sim  |  [Uma Solução para o Auxílio à Geração de Páginas Web Acessíveis] (http://premio.ceweb.br/2012/finalistas/07.htm)  |
-| 2013 | 3 | Não | Não  |  Sim  |  [Apoio de Aula - Repositório de Material Online por Carlos Rafael Gimenes das Neves] (http://premio.ceweb.br/2013/finalistas/apoio_de_aula-repositorio_de_material_online.html)  |
-| 2013 | 0 | Não | Não  |  Sim  |  [F123 representado por Fernando Botelho] (http://premio.ceweb.br/2013/finalistas/F123_fernando_botelho.html)  |
-| 2013 | 2 | Não | Não  |  Sim |  [Hudson Augusto Lima - Projeto NAVEgantes da informação] (http://premio.ceweb.br/2013/finalistas/hudson_augusto_lima.html)  |
-| 2013 | 1 | Não | Não  |  Sim  |  [Leda Spelta] (http://premio.ceweb.br/2013/finalistas/leda_spelta.html)  |
-| 2013 | 0 | Não | Sim  |  ? |  [Prodepa - Cia de Processamento de Dados do Pará] (http://premio.ceweb.br/2013/finalistas/prodepa-cia_de_processamento_de_dados_do_para.html)  |
-| 2013 | 3 | Não | Sim  |  Sim  |  [Novo Portal da Secretaria de Direitos Humanos da Presidência da República] (http://www.sdh.gov.br/)  |
-| 2013 | 2 | Não | Sim  |  Sim  |  [PCD Legal] (http://www.pcdlegal.com.br/cartilhampt)  |
+| 2012 | 3 | Não | Sim  |  Não  |  [Secretaria de Educação a Distância - UFSCar](http://premio.ceweb.br/2012/finalistas/03.htm)  |
+| 2012 | 0 | Não | ?  |  Sim  |  [Adeva](http://www.adeva.org.br/)  |
+| 2012 | 0 | Não | ?  |  Sim  |  [Fundação Dorina Nowill para Cegos](http://www.fundacaodorina.org.br/)  |
+| 2012 | 2 | Não | Sim  |  Não  |  [Portal da Prefeitura Municipal de João Pessoa](http://www.joaopessoa.pb.gov.br/)  |
+| 2012 | 1 | Não | Sim  |  Não  |  [Portal da Prefeitura de Rio das Ostras](http://www.riodasostras.rj.gov.br/)  |
+| 2012 | 3 | Não | Sim  |  Sim  |  [Programa Censo-Inclusão de Pessoas com Deficiência e Mobilidade Reduzida da Prefeitura de São Paulo](https://www.censoinclusao.sp.gov.br/)  |
+| 2012 | 3 | Não | Não  |  Sim  |  [Clareou - O Primeiro Buscador de Sites Acessíveis do Brasil!](http://www.clareou.com.br/)  |
+| 2012 | 1 | **Sim** <sup>1</sup> | Não  |  Não  |  [Hotel Fazenda Parque dos Sonhos](http://www.parquedossonhos.com.br/)  |
+| 2012 | 0 | Não | Sim  |  Sim  |  [Selur Social](http://www.selursocial.org.br/)  |
+| 2012 | 2 | Não | Sim  |  Sim  |  [Site Acessibilidade Virtual - Informação ao alcance de todos](http://bento.ifrs.edu.br/acessibilidade/)  |
+| 2012 | 0 | **Sim** | Não  |  Não |  [Site Tuboar](http://www.tuboar.com.br/)  |
+| 2012 | 2 | Não | Não  |  Sim  |  [Bengala Legal](http://bengalalegal.com/)  |
+| 2012 | 0 | Não | Sim  |  Sim  |  [Blog Acessibilidade Virtual - Informação ao alcance de todos](http://blog.bento.ifrs.edu.br/)  |
+| 2012 | 3 | Não | Não  |  Sim  |  [Cartilha Acessibilidade Digital - Lupa Digital](http://www.lupadigital.info/)  |
+| 2012 | 0 | Não | Não  |  Sim  |  [Projeto Diversa](http://www.diversa.org.br/)  |
+| 2012 | 1 | Não | Não  |  Sim  |  [Vida Mais Livre](http://vidamaislivre.com.br/)  |
+| 2012 | 2 | Não | Não  | Sim  |  [AccessibilityUtil.com, uma ferramenta de colaboração](http://premio.ceweb.br/2012/finalistas/04.htm)  |
+| 2012 | 3 | Não | Sim  |  Sim  |  [Ferramenta CLAWS](http://premio.ceweb.br/2012/finalistas/05.htm)  |
+| 2012 | 0 | Não | Não  |  Sim  |  [LEBRAILLETWT](http://premio.ceweb.br/2012/finalistas/06.htm)  |
+| 2012 | 1 | Não | Não  |  Sim  |  [Uma Solução para o Auxílio à Geração de Páginas Web Acessíveis](http://premio.ceweb.br/2012/finalistas/07.htm)  |
+| 2013 | 3 | Não | Não  |  Sim  |  [Apoio de Aula - Repositório de Material Online por Carlos Rafael Gimenes das Neves](http://premio.ceweb.br/2013/finalistas/apoio_de_aula-repositorio_de_material_online.html)  |
+| 2013 | 0 | Não | Não  |  Sim  |  [F123 representado por Fernando Botelho](http://premio.ceweb.br/2013/finalistas/F123_fernando_botelho.html)  |
+| 2013 | 2 | Não | Não  |  Sim |  [Hudson Augusto Lima - Projeto NAVEgantes da informação](http://premio.ceweb.br/2013/finalistas/hudson_augusto_lima.html)  |
+| 2013 | 1 | Não | Não  |  Sim  |  [Leda Spelta](http://premio.ceweb.br/2013/finalistas/leda_spelta.html)  |
+| 2013 | 0 | Não | Sim  |  ? |  [Prodepa - Cia de Processamento de Dados do Pará](http://premio.ceweb.br/2013/finalistas/prodepa-cia_de_processamento_de_dados_do_para.html)  |
+| 2013 | 3 | Não | Sim  |  Sim  |  [Novo Portal da Secretaria de Direitos Humanos da Presidência da República](http://www.sdh.gov.br/)  |
+| 2013 | 2 | Não | Sim  |  Sim  |  [PCD Legal](http://www.pcdlegal.com.br/cartilhampt)  |
 | 2013 | 1 | Não | Sim  |  Sim  |  [Portal da Casa de Oswaldo Cruz] (Portal da Casa de Oswaldo Cruz)  |
-| 2013 | 2 | Não | Sim  |  ?  |  [Brasilleiro - Plataforma para portais de prefeituras e câmaras de vereadores] (http://www.brasilleiro.com.br/)  |
-| 2013 | 3 | Não | Sim  |  Sim  |  [Projeto Pró-Reabilitação] (http://www.proreabilitacao.com.br/)  |
-| 2013 | 1 | Sim | Não  |  ?  |  [Reclamações Procon] (http://www.reclamacoesprocon.com.br/)  |
-| 2013 | 0 | Não | Sim  |  Sim  |  [B.U. em Libras - Descobrindo a Biblioteca] (http://www.acessibilidade.ufc.br/buemlibras/)  |
-| 2013 | 3 | **Sim**? | Não?  |  Não  |  [RECO - Reconstrução Coletiva] (http://reco.eco.br/)  |
-| 2013 | 2 | Não | Sim  |  Sim |  [Site Modelo de Acessibilidade Virtual] (http://acessibilidade.bento.ifrs.edu.br/)  |
-| 2013 | 1 | Não | Não  |  Sim  |  [Studio Pilates Potirendaba] (http://www.studiopilatespoty.com.br/)  |
-| 2013 | 0 | Não | ?  |  Sim  |  [Website do Teatro Acessível] (http://www.teatroacessivel.org.br/)  |
-| 2013 | 3 | Não | ?  |  Sim  |  [aria-check] (http://premio.ceweb.br/2013/finalistas/aria-check.html)  |
-| 2013 | 2 | Não | ?  |  Sim  |  [AWMo: Acessible Web Modeler] (http://premio.ceweb.br/2013/finalistas/AWMo-acessible_web_modeler.html)  |
-| 2013 | 1 | Não | ?  |  Sim  |  [Mouse Acessível] (http://premio.ceweb.br/2013/finalistas/mouse-acessivel.html)  |
-| 2014 | 2 | Não | Sim  |  Sim  |  [Fernanda Lobato] (http://premio.ceweb.br/2014/finalistas/fernandalobato.html)  |
-| 2014 | 3 | Não | ?  |  Sim  |  [Hand Talk] (http://premio.ceweb.br/2014/finalistas/handtalk.html)  |
-| 2014 | 0 | Não | ?  |  Sim  |  [ProDeaf] (http://premio.ceweb.br/2014/finalistas/prodeaf.html)  |
-| 2014 | 1 | Não | Sim  |  Sim  |  [Projeto de Acessibilidade Virtual do IFRS] (http://premio.ceweb.br/2014/finalistas/ifrs.html)  |
-| 2014 | 1 | Não | Sim  |  Sim  |  [Cursos eMAG] (http://emag.governoeletronico.gov.br/curso/)  |
-| 2014 | 2 | Não | Sim  |  Sim  |  [Guia Turismo Acessível] (http://turismoacessivel.gov.br/ta/)  |
-| 2014 | 2 | **Sim** | Não  |  Não  |  [Casa Jaú - Portal Imobiliário Regional] (http://www.casajau.com.br/)  |
-| 2014 | 3 | Não | Não  |  Sim  |  [Legenda Sonora] (http://legendasonora.com.br/)  |
-| 2014 | 1 | Não | ?  |  Sim  |  [Saúde Acessível] (http://www.saudeacessivel.com.br/)  |
-| 2014 | 0 | **Sim** | Não  |  Não  |  [Website Comercial Buffon] (http://www.comercialbuffon.com.br/)  |
-| 2014 | 3 | Não | Não  |  Sim  |  [Acesso para todos] (http://www.acessoparatodos.com.br/)  |
-| 2014 | 1 | Não | Sim  |  Não  |  [SELUR - Site acessível] (http://www.selur.com.br/)  |
-| 2014 | 2 | Não | ?  |  Sim  |  [Site Jornalismo em Audiodescrição] (http://jornalismoemaudiodescricao.com.br/)  |
-| 2014 | 3 | Não? | ?  |  Sim?  |  [CMS Suindara] (http://premio.ceweb.br/2014/finalistas/suindara.html)  |
-| 2014 | 2 | Não | ?  | Sim |  [Facilitas Player] (http://premio.ceweb.br/2014/finalistas/facilitas.html)  |
-| 2014 | 1 | Não | ?  |  Sim  |  [WebHelpDyslexia] (http://premio.ceweb.br/2014/finalistas/webhelpdyslexia.html)  |
+| 2013 | 2 | Não | Sim  |  ?  |  [Brasilleiro - Plataforma para portais de prefeituras e câmaras de vereadores](http://www.brasilleiro.com.br/)  |
+| 2013 | 3 | Não | Sim  |  Sim  |  [Projeto Pró-Reabilitação](http://www.proreabilitacao.com.br/)  |
+| 2013 | 1 | Sim | Não  |  ?  |  [Reclamações Procon](http://www.reclamacoesprocon.com.br/)  |
+| 2013 | 0 | Não | Sim  |  Sim  |  [B.U. em Libras - Descobrindo a Biblioteca](http://www.acessibilidade.ufc.br/buemlibras/)  |
+| 2013 | 3 | **Sim**? | Não?  |  Não  |  [RECO - Reconstrução Coletiva](http://reco.eco.br/)  |
+| 2013 | 2 | Não | Sim  |  Sim |  [Site Modelo de Acessibilidade Virtual](http://acessibilidade.bento.ifrs.edu.br/)  |
+| 2013 | 1 | Não | Não  |  Sim  |  [Studio Pilates Potirendaba](http://www.studiopilatespoty.com.br/)  |
+| 2013 | 0 | Não | ?  |  Sim  |  [Website do Teatro Acessível](http://www.teatroacessivel.org.br/)  |
+| 2013 | 3 | Não | ?  |  Sim  |  [aria-check](http://premio.ceweb.br/2013/finalistas/aria-check.html)  |
+| 2013 | 2 | Não | ?  |  Sim  |  [AWMo: Acessible Web Modeler](http://premio.ceweb.br/2013/finalistas/AWMo-acessible_web_modeler.html)  |
+| 2013 | 1 | Não | ?  |  Sim  |  [Mouse Acessível](http://premio.ceweb.br/2013/finalistas/mouse-acessivel.html)  |
+| 2014 | 2 | Não | Sim  |  Sim  |  [Fernanda Lobato](http://premio.ceweb.br/2014/finalistas/fernandalobato.html)  |
+| 2014 | 3 | Não | ?  |  Sim  |  [Hand Talk](http://premio.ceweb.br/2014/finalistas/handtalk.html)  |
+| 2014 | 0 | Não | ?  |  Sim  |  [ProDeaf](http://premio.ceweb.br/2014/finalistas/prodeaf.html)  |
+| 2014 | 1 | Não | Sim  |  Sim  |  [Projeto de Acessibilidade Virtual do IFRS](http://premio.ceweb.br/2014/finalistas/ifrs.html)  |
+| 2014 | 1 | Não | Sim  |  Sim  |  [Cursos eMAG](http://emag.governoeletronico.gov.br/curso/)  |
+| 2014 | 2 | Não | Sim  |  Sim  |  [Guia Turismo Acessível](http://turismoacessivel.gov.br/ta/)  |
+| 2014 | 2 | **Sim** | Não  |  Não  |  [Casa Jaú - Portal Imobiliário Regional](http://www.casajau.com.br/)  |
+| 2014 | 3 | Não | Não  |  Sim  |  [Legenda Sonora](http://legendasonora.com.br/)  |
+| 2014 | 1 | Não | ?  |  Sim  |  [Saúde Acessível](http://www.saudeacessivel.com.br/)  |
+| 2014 | 0 | **Sim** | Não  |  Não  |  [Website Comercial Buffon](http://www.comercialbuffon.com.br/)  |
+| 2014 | 3 | Não | Não  |  Sim  |  [Acesso para todos](http://www.acessoparatodos.com.br/)  |
+| 2014 | 1 | Não | Sim  |  Não  |  [SELUR - Site acessível](http://www.selur.com.br/)  |
+| 2014 | 2 | Não | ?  |  Sim  |  [Site Jornalismo em Audiodescrição](http://jornalismoemaudiodescricao.com.br/)  |
+| 2014 | 3 | Não? | ?  |  Sim?  |  [CMS Suindara](http://premio.ceweb.br/2014/finalistas/suindara.html)  |
+| 2014 | 2 | Não | ?  | Sim |  [Facilitas Player](http://premio.ceweb.br/2014/finalistas/facilitas.html)  |
+| 2014 | 1 | Não | ?  |  Sim  |  [WebHelpDyslexia](http://premio.ceweb.br/2014/finalistas/webhelpdyslexia.html)  |
 | 2015 | 0 | 0 | 0  |  0  |  [0] (0)  | Em 2015 o evento não foi realizado.
-| 2016 | ? | Não | Sim  |  Não  |  [Portal Câmara de Suzano] (http://www.camarasuzano.sp.gov.br/)  |
-| 2016 | ? | Não | Sim  |  Não  |  [Portal da Câmara Municipal de São José dos Campos] (http://www.camarasjc.sp.gov.br/)  |
-| 2016 | ? | Não | Sim  |  Não  |  [Portal Dataprev] (http://portal.dataprev.gov.br/)  |
-| 2016 | ? | Não | Sim  |  Não  |  [Portal de Serviços de Vitória] (http://portalservicos.vitoria.es.gov.br/)  |
-| 2016 | ? | Não | Sim  |  Não  |  [Site do Núcleo de Acessibilidade e Usabilidade da Unirio] (http://nau.uniriotec.br/)  |
-| 2016 | ? | Não | Não  |  Sim  |  [A1Br.org - o primeiro portal de notícias acessível do Brasil] (http://www.a1br.org/)  |
-| 2016 | ? | Não | Não  |  Sim  |  [GAIA: Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo] (http://talitapagani.com/gaia/)  |
-| 2016 | ? | Não | Não  |  Sim  |  [Guia de Serviços para Pessoas com Deficiência e Mobilidade Reduzida] (http://www.guiaacessivel.com.br/)  |
-| 2016 | ? | Sim | Não  |  Não  |  [Portal Unimed Fortaleza] (http://www.unimedfortaleza.com.br/)  |
-| 2016 | ? | Sim | Não  |  Não  |  [Website Luiza Caspary] (http://www.luizacaspary.com.br/)  |
-| 2016 | ? | Não | Sim  |  Sim  |  [AsesWEB] (http://asesweb.governoeletronico.gov.br/ases/)  |
-| 2016 | ? | Não | Não  |  Sim  |  [F123 Access] (http://f123access.com/pt-br/)  |
-| 2016 | ? | Não | Não  |  Sim  |  [Suíte VLibras] (http://www.vlibras.gov.br/)  |
-| 2016 | ? | Não | Sim  |  Sim  |  [Prof. Antônio Borges, da UFRJ] (http://intervox.nce.ufrj.br/~antonio2/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal Câmara de Suzano](http://www.camarasuzano.sp.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal da Câmara Municipal de São José dos Campos](http://www.camarasjc.sp.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal Dataprev](http://portal.dataprev.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Portal de Serviços de Vitória](http://portalservicos.vitoria.es.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Não  |  [Site do Núcleo de Acessibilidade e Usabilidade da Unirio](http://nau.uniriotec.br/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [A1Br.org - o primeiro portal de notícias acessível do Brasil](http://www.a1br.org/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [GAIA: Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo](http://talitapagani.com/gaia/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [Guia de Serviços para Pessoas com Deficiência e Mobilidade Reduzida](http://www.guiaacessivel.com.br/)  |
+| 2016 | ? | Sim | Não  |  Não  |  [Portal Unimed Fortaleza](http://www.unimedfortaleza.com.br/)  |
+| 2016 | ? | Sim | Não  |  Não  |  [Website Luiza Caspary](http://www.luizacaspary.com.br/)  |
+| 2016 | ? | Não | Sim  |  Sim  |  [AsesWEB](http://asesweb.governoeletronico.gov.br/ases/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [F123 Access](http://f123access.com/pt-br/)  |
+| 2016 | ? | Não | Não  |  Sim  |  [Suíte VLibras](http://www.vlibras.gov.br/)  |
+| 2016 | ? | Não | Sim  |  Sim  |  [Prof. Antônio Borges, da UFRJ](http://intervox.nce.ufrj.br/~antonio2/)  |
 
 **Notas**
 - 1: Hotel Fazenda Parque dos Sonhos tem um ou mais [prêmios de "melhor para pessoas com deficiência"](http://www.parquedossonhos.com.br/premios-e-certificacoes/melhor-para-pessoas-com-deficiencia);
